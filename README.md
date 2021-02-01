@@ -43,6 +43,6 @@ $ ./ngrok authtoken YOUR_AUTH_TOKEN_HERE
 * GitHub : https://www.github.com/tas33n
 
 ### Attention
-i am not the real owner/modder of this ngrok fixd version, i just found it on web long ago. And this days i saw some newcomers facing problem in termux for this.. So now you dont have to worry anymore, just run the command and it will run, no neeed to turn on Hotspot or anything else except data network..
+i am not the real owner/modder of this ngrok fixd version, i just happen to found it on web long ago. And this days i saw some newcomers facing problem in termux for this.. So now you dont have to worry anymore, just run the command and it will run, no neeed to turn on Hotspot or anything else except data network..
 
 
