@@ -33,7 +33,7 @@ $ mv ngrok $HOME
  <br>
 $ ./ngrok http 8080
      
-(in case you didn't authenticated your account)
+(in case you didn't authenticated your account) <br>
 $ ./ngrok authtoken YOUR_AUTH_TOKEN_HERE 
 
 ## ***Follow This Guy***
