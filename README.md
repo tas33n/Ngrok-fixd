@@ -16,7 +16,7 @@
 <h1 align="center">Ngrok fixd</h1>
 <p align="center">
 
-     Bug free Ngrok for Termux
+     Bug free Ngrok for Termux <br> No need to turn on Mobile Hotspot anymore..
 
 </p>
 
