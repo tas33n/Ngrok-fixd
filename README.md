@@ -22,8 +22,11 @@
 
 ## Install & Run :
 $ git clone https://github.com/Tas33n/Ngrok-fixd
+<br>
 $ cd Ngrok-fixd
+<BR>
 $ mv ngrok $HOME
+ <br>
 $ ./ngrok http 8080
 
 ## ***Follow This Guy***
