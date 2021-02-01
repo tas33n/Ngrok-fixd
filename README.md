@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<a href="#"><img title="Xweapon" src="https://steemitimages.com/p/3W72119s5BjWMGm4Xa2MvD5AT2bJsSA8F9WeC71v1s1fKfGkK9mMKuc3LcvF4KigbWg9UsrpEPG8XHMz9DbGRTMD8uMJTmBVkorCWvqNerGrjXQrNzkGKG?format=match&mode=fit&width=640" class="center"></a>
+<a href="#"><img title="Ngrok-fixd" src="https://raw.githubusercontent.com/Tas33n/Garbage/main/IMG_20210201_202731.jpg?token=ANIOJEBRUYBL4NGJS6RCXPDADAITQformat=match&mode=fit&width=640" class="center"></a>
 
 <p align="center">
 <p align="center">
